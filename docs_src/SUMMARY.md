@@ -1,6 +1,6 @@
 # Summary
 
-* [このリポジトリについて](README.md)
+* [地質調査と地質図の作成（大学向け）](README.md)
     * [1. 地質図とは何か](chapter01.md)
     * [2. 地質調査法](chapter02.md)
     * [3. 地質図の読み方](chapter03.md)
