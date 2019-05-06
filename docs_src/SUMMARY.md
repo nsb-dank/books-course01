@@ -1,6 +1,6 @@
 # Summary
 
-* [**このリポジトリについて**](README.md)
+* [このリポジトリについて](README.md)
     * [1. 地質図とは何か](chapter01.md)
     * [2. 地質調査法](chapter02.md)
     * [3. 地質図の読み方](chapter03.md)
@@ -16,3 +16,4 @@
     * [13. 調査結果をまとめる](chapter13.md)
     * [14. 調査結果を分析する](chapter14.md)
     * [15. 地質分野におけるGISの活用](chapter15.md)
+
