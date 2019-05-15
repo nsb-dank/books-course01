@@ -28,7 +28,7 @@ QGISを用いて地質図を作成する場合、QGISの操作や機能の理解
 
 ① 以下のリンクをクリックして、zipファイルをダウンロードします。
 
-[**geolib3ダウンロード**](https://gis.nsb-dank.co.jp/ggis/geolib3.zip)  
+[**geolib3ダウンロード**](https://gis.nsb-dank.co.jp/qgis/geolib3.zip)  
 
 ② QGISを起動し、**[プラグイン]-[プラグインの管理とインストール]** をクリックします。  
 
