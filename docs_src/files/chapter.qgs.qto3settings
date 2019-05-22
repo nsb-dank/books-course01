@@ -1,0 +1,105 @@
+{
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "route01_pnt_7e83e098_b212_4dc7_a9be_903734f37187",
+      "name": "route01-pnt",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "route01_strdip_6d3a2c30_05d9_4aa4_b493_1616715fc3d0",
+      "name": "route01-strdip",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "route01_geo_L_5823420b_48c3_4952_b7d8_f1d4a1e87f8e",
+      "name": "route01-geo_L",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "route01_geo_A_d0526224_7fc4_457a_aaf1_38db5cd0b3aa",
+      "name": "route01-geo_A",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "geomap_pnt_bf45c305_d42b_48e1_9a6c_2f141e0682c9",
+      "name": "geomap-pnt",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "geomap_strdip_acd9ff54_95e7_4466_b5c8_4cf87ba38fe8",
+      "name": "geomap-strdip",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "geomap_geo_L_ad9ae569_2310_425a_b3b2_c3b3a6bc6e65",
+      "name": "geomap-geo_L",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "geomap_geo_A_b205addc_3aa4_44df_a351_5f9615514c8f",
+      "name": "geomap-geo_A",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "ShadowMap_85f47e61_b06f_43b4_b525_f8e2df26254b",
+      "name": "ShadowMap",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DEM_c0eeb79e_c485_408d_9104_89dc54091eb0",
+      "name": "DEM",
+      "properties": {
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Shading": true,
+        "checkBox_Sides": true,
+        "checkBox_Surroundings": false,
+        "checkBox_TransparentBackground": false,
+        "checkBox_Visible": true,
+        "colorButton_Color": "0x000000",
+        "comboBox_ClipLayer": "route01_geo_A_d0526224_7fc4_457a_aaf1_38db5cd0b3aa",
+        "comboBox_TextureSize": 100,
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_ImageFile": "",
+        "radioButton_MapCanvas": true,
+        "spinBox_Opacity": 100,
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "plugin:gsielevtile",
+      "name": "GSI Elevation Tile",
+      "properties": null,
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "FLAT",
+      "name": "Flat Plane",
+      "properties": null,
+      "visible": false
+    }
+  ]
+}
