@@ -12,7 +12,7 @@ QGISでは、ルートマップと地質図は別のレイヤーに記録する�
 
 ----
 **【演習用ダウンロードファイル】**  
-[**QGISサンプルプロジェクト**](./files/project_chapter11.zip)：演習１のQGISプロジェクトファイル（ZIPファイル）  
+[**QGISサンプルプロジェクト**](https://gis.nsb-dank.co.jp/qgis/project_chapter11.zip)：演習１のQGISプロジェクトファイル（ZIPファイル）  
 
 ----  
 

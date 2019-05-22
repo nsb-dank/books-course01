@@ -10,7 +10,7 @@
 
 ----
 **【演習用ダウンロードファイル】**  
-[**QGISサンプルプロジェクト**](./files/project_chapter10.zip)：演習１のQGISプロジェクトファイル（ZIPファイル）  
+[**QGISサンプルプロジェクト**](https://gis.nsb-dank.co.jp/qgis/project_chapter10.zip)：演習１のQGISプロジェクトファイル（ZIPファイル）  
 
 ----
 

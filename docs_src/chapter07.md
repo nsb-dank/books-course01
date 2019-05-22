@@ -57,8 +57,8 @@ d = h / tan θ （d:走向線間隔 h:等高線間隔 θ:傾斜角）
 
 ----
 **【演習用ダウンロードファイル】**  
-[**演習用ワークシート**](./files/chapter7_shreet.pdf)：演習１および演習３の図（PDFファイル）  
-[**QGISサンプルプロジェクト**](./files/project_chapter7.zip)：演習２のQGISプロジェクトファイル（ZIPファイル）  
+[**演習用ワークシート**](https://gis.nsb-dank.co.jp/qgis/chapter7_shreet.pdf)：演習１および演習３の図（PDFファイル）  
+[**QGISサンプルプロジェクト**](https://gis.nsb-dank.co.jp/qgis/project_chapter7.zip)：演習２のQGISプロジェクトファイル（ZIPファイル）  
 
 ----
 
@@ -76,7 +76,7 @@ d = h / tan θ （d:走向線間隔 h:等高線間隔 θ:傾斜角）
 
 QGISのサンプルプロジェクトファイルを使用して、QGISで地質境界線を描いてみましょう。  
 
-① 上記の [**QGISサンプルプロジェクト**](./files/project_chapter7.zip) ファイルをPCにダウンロードして、任意のフォルダに解凍して保存します（保存先のフォルダー名には日本語などの全角文字を含まないようにしてください）。  
+① 上記の [**QGISサンプルプロジェクト**](https://gis.nsb-dank.co.jp/qgis/project_chapter7.zip) ファイルをPCにダウンロードして、任意のフォルダに解凍して保存します（保存先のフォルダー名には日本語などの全角文字を含まないようにしてください）。  
 
 ② ①の「project_chapter7」フォルダ内にあるプロジェクトファイル **[chapter07.qgs]** をQGISに読み込む（ダブルクリックするとこのプロジェクトファイルを読み込んだ状態でQGISが起動します）と、上記の演習１と同じ地図がQGISに表示されます。
 
